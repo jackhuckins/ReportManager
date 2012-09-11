@@ -1,0 +1,13 @@
+C:\VSProjects\ReportsEmailManagement\ReportsEmailManagement\bin\Release\ReportsEmailManagement.exe.config
+C:\VSProjects\ReportsEmailManagement\ReportsEmailManagement\bin\Release\ReportsEmailManagement.exe
+C:\VSProjects\ReportsEmailManagement\ReportsEmailManagement\bin\Release\ReportsEmailManagement.pdb
+C:\VSProjects\ReportsEmailManagement\ReportsEmailManagement\obj\x86\Release\ResolveAssemblyReference.cache
+C:\VSProjects\ReportsEmailManagement\ReportsEmailManagement\obj\x86\Release\ReportsEmailManagement.ADD.resources
+C:\VSProjects\ReportsEmailManagement\ReportsEmailManagement\obj\x86\Release\ReportsEmailManagement.EmailAddressList.resources
+C:\VSProjects\ReportsEmailManagement\ReportsEmailManagement\obj\x86\Release\ReportsEmailManagement.Form1.resources
+C:\VSProjects\ReportsEmailManagement\ReportsEmailManagement\obj\x86\Release\ReportsEmailManagement.Properties.Resources.resources
+C:\VSProjects\ReportsEmailManagement\ReportsEmailManagement\obj\x86\Release\ResGen.read.1.tlog
+C:\VSProjects\ReportsEmailManagement\ReportsEmailManagement\obj\x86\Release\ResGen.write.1.tlog
+C:\VSProjects\ReportsEmailManagement\ReportsEmailManagement\obj\x86\Release\ReportsEmailManagement.exe.licenses
+C:\VSProjects\ReportsEmailManagement\ReportsEmailManagement\obj\x86\Release\ReportsEmailManagement.exe
+C:\VSProjects\ReportsEmailManagement\ReportsEmailManagement\obj\x86\Release\ReportsEmailManagement.pdb
